@@ -4,6 +4,8 @@ draft: false
 title: 'A Highland Cat'
 ---
 
+{{< figure src="/yukmeadow.jpg" attr="Yuk Meadow, Yulong Mountain" align=center target="_blank" >}}
+
 I met a cat on Jade Dragon Snow Mountain (玉龙雪山) in Lijiang. It was a cloudy day in July 2023, the second day of my tourism trip in Lijiang. We started the day early. Leaving the hotel at around 6:15am, we spent 40min to walk accross the hilly old town and get to the bus station. When we arrived, there was already a line forming, all heading to the Jade Dragon Snow Mountain. 
 
 The Jade Dragon Snow Mountain is about 10 miles to the north of Lijiang City. The massif forms the bulk of the larger Yulong Mountains, that stretch further north. Even though it's a snow mountain, we were not expected to see the snow peak since July is the hottest time of the year. We wouldn't be going to the peak anyways. Like many Chinese tourism parks large enough to have several points of interests, they sell separate tickets to each location. We only got the ticket to Yak Meadow. As its name says, Yak Meadow is grassland on the plateau where herds of yaks placidly roam.
