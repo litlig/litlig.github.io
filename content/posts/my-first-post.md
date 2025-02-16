@@ -2,6 +2,8 @@
 date: '2025-01-19T20:25:25-08:00'
 draft: false
 title: 'A Highland Cat'
+tags: ["travel", "life"]
+categories: ["essay"]
 ---
 
 {{< figure src="/yukmeadow.jpg" attr="Yuk Meadow, Yulong Mountain" align=center target="_blank" >}}
