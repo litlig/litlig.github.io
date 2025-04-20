@@ -1,8 +1,8 @@
 ---
 date: '2025-04-19T21:04:30-07:00'
-draft: true
+draft: false
 title: 'Trap of Modern Society'
-tags: ["travel", "life"]
+tags: ["work","life"]
 categories: ["essay"]
 ---
 
