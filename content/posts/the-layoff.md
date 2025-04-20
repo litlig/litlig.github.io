@@ -26,7 +26,7 @@ There are also more positive or proactive mentals like:
 
 As a new comer to the team, I had the worry of not getting enough scope of work. I talked to my manager several times about this, but nothing came. Ironically, the project came with the layoff annoucement. One week ago, the concern was not enough work to show impact. One week later, the concern is too much work that could quickly burn me out.
 
-People likes saying they're gold cuffed to the grind; they'll grind as long as they're allowed to. Maybe there's something more than the gold: the security of the daily consistency brings, the identity of a coorperate employee, the purpose of getting up in the morning. Grind and grind, never one step away from the track; the urge of break and the fear of not able to getting back on track are constantly fighting. 
+People likes saying they're golden cuffed to the grind; they'll grind as long as they're allowed to. Maybe there's something more than the gold: the security of the daily consistency brings, the identity of a coorperate employee, the purpose of getting up in the morning. Grind and grind, never one step away from the track; the urge of break and the fear of not able to getting back on track are constantly fighting. 
 
 There will be a break, maybe soon within a few month, or longer like one or two years. Things to think about is, if you know it'll be come for sure, what would you do now? 
 
