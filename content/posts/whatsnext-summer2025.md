@@ -1,7 +1,7 @@
 ---
 date: '2025-06-27T22:20:14-07:00'
 draft: false
-title: 'So, what's next'
+title: 'So, whats next'
 tags: ["work","life"]
 categories: ["essay"]
 ---
